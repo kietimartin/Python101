@@ -22,4 +22,3 @@ myList.sort()
 
 # Find and print the index of the value 30 in my_list.
 print(myList.index(30))
-print(myList)
